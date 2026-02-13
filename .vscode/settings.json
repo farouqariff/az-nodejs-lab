@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fa21c631-8489-46e2-974a-21488164fa2d/resourceGroups/appsvc_linux_malaysiawest/providers/Microsoft.Web/sites/nvcontosohrapp",
+    "appService.deploySubpath": "."
+}
